@@ -9,10 +9,14 @@ What do the modules do?
 1) Compile SASS files into CSS file 
   a) Into a lisible CSS file in the src folder
   b) Into a compressed CSS file in the dist folder
-  c) Autoprefixer
+  c) Autoprefixer (last 2 versions of Browers)
  
 2) Concat all Javascript files into one file and compress for the dist folder
 
-3) 
+3) Compress images from src folder to dist folder 
+
+4) build an server in the work folder who is watching all files => browersync
+
+
 
 
